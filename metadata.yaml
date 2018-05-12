@@ -1,5 +1,8 @@
 _repo: The-London-Prodigal-by-William-Shakespeare-as-it-was-played-by-the-King-s-Majesties-servants_4031
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: Falsely attributed to William Shakespeare.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4031#The-London-Prodigal-by-William-Shakespeare-as-it-was-played-by-the-King-s-Majesties-servants
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
